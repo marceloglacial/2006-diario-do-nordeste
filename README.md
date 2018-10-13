@@ -2,7 +2,7 @@
 
 Design project.
 
-## Initial 
+## Initial Version
 
 ![screenshot](design/01-home.png)
 
@@ -11,7 +11,7 @@ Design project.
 ![screenshot](design/03-internas.png)
 
 
-## Final
+## Final Version
 
 ![screenshot](design/04-home.png)
 
